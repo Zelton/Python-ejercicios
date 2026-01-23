@@ -11,3 +11,11 @@ Reps:5''')
 #EJERCICIO 2.1 CHATGPT
 
 print("===== PIERNA DIA 1 =====\nEjercicio: Sentadilla\nPeso: 80kg\nSeries: 4\nReps: 8")
+
+#EJERCICIO 2.2 CHATGPT
+
+print("===== Pierna Día 2 =====\n"
+"Ejercicio: Squat en Smith\n"
+"Peso: 120kg\n"
+"Series: 4\n"
+"Reps: 10")
