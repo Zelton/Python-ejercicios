@@ -19,3 +19,16 @@ print("===== Pierna Día 2 =====\n"
 "Peso: 120kg\n"
 "Series: 4\n"
 "Reps: 10")
+
+#EJERCICIO 2.3 CHATGPT
+
+ejercicio_pierna = "Squat en Smith"
+peso_pierna = ("120kg")
+series_pierna = ("4x10")
+print("===== PIERNA DÍA 3 =====")
+print("Ejercicio: ", end = "")
+print(ejercicio_pierna)
+print("Peso: ", end = "")
+print(peso_pierna)
+print("Series: ", end = "")
+print(series_pierna)
