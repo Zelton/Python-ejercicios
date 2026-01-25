@@ -12,3 +12,11 @@ print("Ciudad: ", end = "")
 print(ciudad_usuario)
 print("Alturas: ", end = "")
 print(altura_usuario)
+
+print(" --- Tabla Semana 1 ---")
+ex_1 = "Press banca plano mancuernas"
+ex_2 = "4 X 12"
+ex_3 = "RIR 2-3"
+print(ex_1)
+print(ex_2)
+print(ex_3)
